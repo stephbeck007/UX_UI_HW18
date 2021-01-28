@@ -1,0 +1,427 @@
+/* screen - portfolio */
+
+.arvo-normal-iceberg-18px {
+  color: var(--iceberg);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arvo-normal-white-18px {
+  color: var(--white);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.portfolio {
+  background-color: var(--iceberg);
+  height: 2353px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.portfolio .apple-i-ph-max-silver-C61RwL {
+  background-color: transparent;
+  height: 441px;
+  left: 1078px;
+  position: absolute;
+  top: 1547px;
+  width: 225px;
+}
+.portfolio .apple-macb-15-silver-C61RwL {
+  background-color: transparent;
+  height: 337px;
+  left: 441px;
+  position: absolute;
+  top: 1588px;
+  width: 544px;
+}
+.portfolio .case-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.2px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 993px;
+  letter-spacing: 0.00px;
+  line-height: 78.7px;
+  position: absolute;
+  text-align: right;
+  top: 1368px;
+  white-space: nowrap;
+  width: 387px;
+}
+.portfolio .contact-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1321px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.portfolio .creative-g-on-in-uiux-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 939px;
+  width: 673px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.portfolio .entypoold-phone-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1240px;
+  overflow: hidden;
+  position: absolute;
+  top: 2278px;
+  width: 54px;
+}
+.portfolio .home-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 836px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.portfolio .home-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2293px;
+  width: 58px;
+}
+.portfolio .im-a-uiux-designer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 353px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 525px;
+  width: 401px;
+}
+.portfolio .is-me-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 789px;
+  width: 320px;
+}
+.portfolio .mdiemail-C61RwL {
+  background-color: transparent;
+  height: 55px;
+  left: 1150px;
+  overflow: hidden;
+  position: absolute;
+  top: 2274px;
+  width: 62px;
+}
+.portfolio .my-name-is-nie-jensen-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 47.5px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 475px;
+  width: 682px;
+}
+.portfolio .my-work-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.portfolio .my-work-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 355px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2293px;
+  width: 89px;
+}
+.portfolio .portfolio-C61RwL {
+  background-color: transparent;
+  color: var(--iceberg);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+.portfolio .rectangle-1-C61RwL {
+  background-color: var(--black-2);
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1439px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.portfolio .rectangle-10-C61RwL {
+  background-color: var(--black-2);
+  border: 1.0px solid var(--black);
+  height: 611px;
+  left: 0px;
+  position: absolute;
+  top: 1437px;
+  width: 1440px;
+}
+.portfolio .rectangle-16-C61RwL {
+  background-color: rgba(97,95,95,1.0);
+  height: 617px;
+  left: 0px;
+  position: absolute;
+  top: 820px;
+  width: 844px;
+}
+.portfolio .rectangle-3-C61RwL {
+  background-color: var(--black-2);
+  border: 1px solid var(--black);
+  height: 240px;
+  left: -1px;
+  position: absolute;
+  top: 99px;
+  width: 1440px;
+}
+.portfolio .rectangle-4-C61RwL {
+  background-color: var(--viking);
+  height: 278px;
+  left: 562px;
+  position: absolute;
+  top: 2011px;
+  width: 291px;
+}
+.portfolio .rectangle-4-VMr6Om {
+  background-color: var(--viking);
+  height: 68px;
+  left: 338px;
+  position: absolute;
+  top: 512px;
+  width: 418px;
+}
+.portfolio .rectangle-4-mzXdH9 {
+  background-color: var(--viking);
+  height: 130px;
+  left: 794px;
+  position: absolute;
+  top: 1375px;
+  width: 645px;
+}
+.portfolio .rectangle-5-C61RwL {
+  background-color: var(--viking);
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  top: 763px;
+  width: 562px;
+}
+.portfolio .rectangle-9-C61RwL {
+  background-color: var(--black);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 2253px;
+  width: 1441px;
+}
+.portfolio .resume-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 985px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 39px;
+  width: auto;
+}
+.portfolio .resume-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2293px;
+  width: 75px;
+}
+.portfolio .screen-sho--at-1123-1-C61RwL {
+  background-color: transparent;
+  height: 443px;
+  left: 133px;
+  position: absolute;
+  top: 1535px;
+  width: 222px;
+}
+.portfolio .screen-sho-6-at-610-1-C61RwL {
+  background-color: transparent;
+  height: 720px;
+  left: 727px;
+  position: absolute;
+  top: 339px;
+  width: 712px;
+  dislplay: flex;
+  flex-direction: column;
+}
+.portfolio .studies-C61RwL {
+  background-color: transparent;
+  color: rgba(255,252,252,1.0);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.2px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 863px;
+  letter-spacing: 0.00px;
+  line-height: 78.7px;
+  position: absolute;
+  text-align: right;
+  top: 1434px;
+  white-space: nowrap;
+  width: 391px;
+}
+.portfolio .this-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arvo', Helvetica, Arial, serif;
+  font-size: 105.6px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  width: 234px;
+}
+.portfolio .uilinstagram-alt-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1074px;
+  overflow: hidden;
+  position: absolute;
+  top: 2277px;
+  width: 47px;
+}
+.portfolio .vector-3SuDvW {
+  background-color: transparent;
+  height: 40px;
+  left: -1px;
+  position: absolute;
+  top: 4px;
+  width: 55px;
+}
+.portfolio .vector-C61RwL {
+  background-color: transparent;
+  height: 200px;
+  left: 622px;
+  position: absolute;
+  top: 2050px;
+  width: 172px;
+}
+.portfolio .vector-Tx30cR {
+  background-color: transparent;
+  height: 40px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 40px;
+}
+.portfolio .vector-dpU4XE {
+  background-color: transparent;
+  height: 38px;
+  left: 5px;
+  position: absolute;
+  top: 9px;
+  width: 53px;
+}
+.portfolio .white-s-jlogo-C61RwL {
+  background-color: transparent;
+  height: 239px;
+  left: 226px;
+  position: absolute;
+  top: 69px;
+  width: 987px;
+}
+.portfolio .x1200px-med-monogram-1-C61RwL {
+  background-color: transparent;
+  height: 57px;
+  left: 1315px;
+  position: absolute;
+  top: 2274px;
+  width: 71px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --black-2: rgba(1,1,3,1.0);
+  --iceberg: rgba(222,241,246,1.0);
+  --viking: rgba(111,203,218,0.5);
+  --white: rgba(255,255,255,1.0);
+}
